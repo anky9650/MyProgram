@@ -12,7 +12,7 @@ for(i=2;i<num;i++){
       
  }
  
- if(flag==0){
+ if(flag=0){
  console.log("Yes"); 
  
  }
